@@ -1,3 +1,2 @@
 # gitskills
-git 的命令备注
-I modify it 
+Creating a new branch is quick AND simple.
